@@ -10,7 +10,7 @@ Filtra Pokémon por hábitat, escucha sus sonidos y explora sus detalles con un 
 
 ## 📽️ Demo en video
 
-[![Ver la demo](./assets/pokePageDemo.PNG)](https://youtu.be/61DHTEx6om0)
+[![Ver la demo](./src/assets/pokePageDemo.PNG)](https://youtu.be/61DHTEx6om0)
 
 Haz clic en la imagen para ver la Pokédex en acción (sonidos, filtros, tarjetas holográficas y más).
 
@@ -18,10 +18,10 @@ Haz clic en la imagen para ver la Pokédex en acción (sonidos, filtros, tarjeta
 ## 📸 Vista previa
 
 ### 🏠 Página de inicio
-![HomePage](./assets/pokeHomeDemo.PNG)
+![HomePage](./src/assets/pokeHomeDemo.PNG)
 
 ### 📚 Página de la Pokédex
-![PokePage](./assets/pokePageDemo.PNG)
+![PokePage](./src/assets/pokePageDemo.PNG)
 
 
 ---
