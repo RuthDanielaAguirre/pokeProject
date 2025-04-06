@@ -39,7 +39,7 @@ const ObjectsPage = () => {
 
 
   return (
-    <div className="min-h-screen bg-gray-900 text-white">
+    <div className="min-h-screen bg-gray-900 text-white pb-20">
       <h1 className="text-3xl font-bold text-center py-6">POKESTORE</h1>
 
       <div className="flex justify-center gap-6 mb-4">
