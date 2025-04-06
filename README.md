@@ -3,13 +3,26 @@
 Una Pokédex interactiva creada con React, Vite y TailwindCSS, consumiendo datos de la PokéAPI.  
 Filtra Pokémon por hábitat, escucha sus sonidos y explora sus detalles con un diseño moderno. 🌿
 
+<img src="./public/pokeball.png" alt="PokeProject Preview" width="100" />
 
 
 ---
 
+## 📽️ Demo en video
+
+[![Ver la demo](./assets/pokePageDemo.PNG)](https://youtu.be/61DHTEx6om0)
+
+Haz clic en la imagen para ver la Pokédex en acción (sonidos, filtros, tarjetas holográficas y más).
+
+
 ## 📸 Vista previa
 
-<img src="./public/pokeball.png" alt="PokeProject Preview" width="100" />
+### 🏠 Página de inicio
+![HomePage](./assets/pokeHomeDemo.PNG)
+
+### 📚 Página de la Pokédex
+![PokePage](./assets/pokePageDemo.PNG)
+
 
 ---
 
