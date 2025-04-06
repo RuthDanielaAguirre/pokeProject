@@ -79,7 +79,8 @@ Ruta	Descripción
 /pokeProject/	Página principal / bienvenida
 /pokeProject/pokedex	Lista de Pokémon con filtros
 /pokeProject/objects	Página de objetos (en desarrollo)
-⚠️ Nota: Si accedes directamente a estas rutas en GitHub Pages, asegúrate de que el navegador no te da error 404. Si ocurre, vuelve a /pokeProject/ y navega desde la app.
+⚠️ Nota: Si accedes directamente a estas rutas en GitHub Pages, asegúrate de que el navegador no te da error 404. 
+    Si ocurre, vuelve a /pokeProject/ y navega desde la app.
 
 ---
 
